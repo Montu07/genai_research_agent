@@ -1,0 +1,17 @@
+transformers==4.38.2
+accelerate==0.28.0
+sentencepiece
+langchain==0.1.11
+langchain-community==0.0.24
+chromadb==0.4.24
+faiss-cpu==1.7.4
+
+torch==2.1.2
+numpy==1.26.4
+scipy==1.12.0
+
+python-dotenv==1.0.1
+
+tqdm
+pydantic==2.6.1
+requests
